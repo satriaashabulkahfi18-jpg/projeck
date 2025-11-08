@@ -1,0 +1,74 @@
+# Database files
+*.db
+cassava_users.db
+
+# Model files (large binary files)
+model/*.h5
+model/*.hdf5
+model/*.pb
+model/*.onnx
+model/*.tflite
+model/vgg16_multitask.h5
+model/vggnew_model.h5
+
+# Dataset files (large data)
+dataset/
+*.zip
+*.tar.gz
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Streamlit
+.streamlit/secrets.toml
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment variables
+.env
+.env.local
+
+# Testing
+.coverage
+.pytest_cache/
+
+# Documentation builds
+docs/_build/
+
+# Node modules (if any)
+node_modules/
+
+# Hugging Face Spaces
+# Keep these files for deployment
+# !requirements.txt
+# !packages.txt
+# !streamlit/config.toml
+# !streamlit/secrets.toml.example

@@ -1,0 +1,285 @@
+[
+  {
+    "user_id": 1,
+    "timestamp": "23/10/2025 15:06:59",
+    "total_images": 1,
+    "results": [
+      {
+        "label": "Brown Spot",
+        "confidence": 84.69076156616211
+      }
+    ]
+  },
+  {
+    "user_id": 1,
+    "timestamp": "23/10/2025 15:07:49",
+    "total_images": 4,
+    "results": [
+      {
+        "label": "Bacterial Blight",
+        "confidence": 94.1175103187561
+      },
+      {
+        "label": "Bacterial Blight",
+        "confidence": 77.74797081947327
+      },
+      {
+        "label": "Bacterial Blight",
+        "confidence": 82.25574493408203
+      },
+      {
+        "label": "Bacterial Blight",
+        "confidence": 98.96932244300842
+      }
+    ]
+  },
+  {
+    "user_id": 1,
+    "timestamp": "23/10/2025 15:08:37",
+    "total_images": 1,
+    "results": [
+      {
+        "label": "Bacterial Blight",
+        "confidence": 99.71956014633179
+      }
+    ]
+  },
+  {
+    "user_id": 1,
+    "timestamp": "23/10/2025 15:09:18",
+    "total_images": 2,
+    "results": [
+      {
+        "label": "Bacterial Blight",
+        "confidence": 99.71956014633179
+      },
+      {
+        "label": "Bacterial Blight",
+        "confidence": 83.65999460220337
+      }
+    ]
+  },
+  {
+    "user_id": 1,
+    "timestamp": "23/10/2025 15:10:20",
+    "total_images": 5,
+    "results": [
+      {
+        "label": "Bacterial Blight",
+        "confidence": 52.52516269683838
+      },
+      {
+        "label": "Bacterial Blight",
+        "confidence": 60.81377863883972
+      },
+      {
+        "label": "Bacterial Blight",
+        "confidence": 99.68084692955017
+      },
+      {
+        "label": "Bacterial Blight",
+        "confidence": 84.16081666946411
+      },
+      {
+        "label": "Bacterial Blight",
+        "confidence": 74.14442896842957
+      }
+    ]
+  },
+  {
+    "user_id": 1,
+    "timestamp": "23/10/2025 15:15:56",
+    "total_images": 1,
+    "results": [
+      {
+        "label": "Bacterial Blight",
+        "confidence": 80.83373308181763
+      }
+    ]
+  },
+  {
+    "user_id": 1,
+    "timestamp": "23/10/2025 15:16:39",
+    "total_images": 2,
+    "results": [
+      {
+        "label": "Bacterial Blight",
+        "confidence": 80.83373308181763
+      },
+      {
+        "label": "Brown Spot",
+        "confidence": 56.006693840026855
+      }
+    ]
+  },
+  {
+    "user_id": 1,
+    "timestamp": "24/10/2025 10:57:19",
+    "total_images": 1,
+    "results": [
+      {
+        "label": "Brown Spot",
+        "confidence": 56.006693840026855
+      }
+    ]
+  },
+  {
+    "user_id": 1,
+    "timestamp": "24/10/2025 10:58:28",
+    "total_images": 1,
+    "results": [
+      {
+        "label": "Bacterial Blight",
+        "confidence": 86.22174263000488
+      }
+    ]
+  },
+  {
+    "user_id": 1,
+    "timestamp": "24/10/2025 10:59:06",
+    "total_images": 2,
+    "results": [
+      {
+        "label": "Bacterial Blight",
+        "confidence": 86.22174263000488
+      },
+      {
+        "label": "Brown Spot",
+        "confidence": 59.28994417190552
+      }
+    ]
+  },
+  {
+    "user_id": 1,
+    "timestamp": "24/10/2025 10:59:41",
+    "total_images": 2,
+    "results": [
+      {
+        "label": "Bacterial Blight",
+        "confidence": 86.22174263000488
+      },
+      {
+        "label": "Brown Spot",
+        "confidence": 69.9161946773529
+      }
+    ]
+  },
+  {
+    "user_id": 1,
+    "timestamp": "24/10/2025 11:00:07",
+    "total_images": 1,
+    "results": [
+      {
+        "label": "Brown Spot",
+        "confidence": 89.82790112495422
+      }
+    ]
+  },
+  {
+    "user_id": 1,
+    "timestamp": "24/10/2025 11:00:32",
+    "total_images": 1,
+    "results": [
+      {
+        "label": "Brown Spot",
+        "confidence": 67.23183989524841
+      }
+    ]
+  },
+  {
+    "user_id": 1,
+    "timestamp": "24/10/2025 20:05:20",
+    "total_images": 2,
+    "results": [
+      {
+        "label": "Brown Spot",
+        "confidence": 70.75698971748352
+      },
+      {
+        "label": "Brown Spot",
+        "confidence": 67.23183989524841
+      }
+    ]
+  },
+  {
+    "user_id": 1,
+    "timestamp": "24/10/2025 20:08:59",
+    "total_images": 5,
+    "results": [
+      {
+        "label": "Brown Spot",
+        "confidence": 99.16878342628479
+      },
+      {
+        "label": "Healthy",
+        "confidence": 79.17284965515137
+      },
+      {
+        "label": "Brown Spot",
+        "confidence": 61.952054500579834
+      },
+      {
+        "label": "Bacterial Blight",
+        "confidence": 56.0765266418457
+      },
+      {
+        "label": "Brown Spot",
+        "confidence": 78.15378904342651
+      }
+    ]
+  },
+  {
+    "user_id": 1,
+    "timestamp": "24/10/2025 20:18:07",
+    "total_images": 5,
+    "results": [
+      {
+        "label": "Brown Spot",
+        "confidence": 99.16878342628479
+      },
+      {
+        "label": "Healthy",
+        "confidence": 79.17284965515137
+      },
+      {
+        "label": "Brown Spot",
+        "confidence": 61.952054500579834
+      },
+      {
+        "label": "Bacterial Blight",
+        "confidence": 56.0765266418457
+      },
+      {
+        "label": "Brown Spot",
+        "confidence": 78.15378904342651
+      }
+    ]
+  },
+  {
+    "user_id": 1,
+    "timestamp": "24/10/2025 20:32:49",
+    "total_images": 5,
+    "results": [
+      {
+        "label": "Brown Spot",
+        "confidence": 99.16878342628479
+      },
+      {
+        "label": "Healthy",
+        "confidence": 79.17284965515137
+      },
+      {
+        "label": "Brown Spot",
+        "confidence": 61.952054500579834
+      },
+      {
+        "label": "Bacterial Blight",
+        "confidence": 56.0765266418457
+      },
+      {
+        "label": "Brown Spot",
+        "confidence": 78.15378904342651
+      }
+    ]
+  }
+]
